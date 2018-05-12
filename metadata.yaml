@@ -1,0 +1,27 @@
+_repo: ParsifalKertomus-Graalin-ritarista_34722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kilpi, Volter
+    alias: Ericsson, Volter
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6058'
+    url: http://www.gutenberg.org/2009/agents/6058
+description: ''
+gutenberg_issued: '2010-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34722'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Perceval (Legendary character) -- Romances -- Adaptations'
+title: 'Parsifal: Kertomus Graalin ritarista'
+url: http://www.gutenberg.org/ebooks/34722
